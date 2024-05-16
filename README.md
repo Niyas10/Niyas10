@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyas10&label=Profile%20views&color=0e75b6&style=flat" alt="niyas10" /> </p>
 
-- 🌱 I’m currently learning **MUI**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 💬 Ask me about **MERN , UIUX**
 
