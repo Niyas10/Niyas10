@@ -25,6 +25,6 @@
 
 
 
-<p><img width='100%'   src="https://github-readme-stats.vercel.app/api/top-langs?username=niyas10&show_icons=true&locale=en&layout=compact" alt="niyas10" /></p>
+<p><img width='500px' height='50px'   src="https://github-readme-stats.vercel.app/api/top-langs?username=niyas10&show_icons=true&locale=en&layout=compact" alt="niyas10" /></p>
 
 
