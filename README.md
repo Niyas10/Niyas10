@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/YOUR_USERNAME/REPOSITORY/PATH/TO/BANNER.png" alt="Developer Banner" />
+  <img src="[https://user-images.githubusercontent.com/YOUR_USERNAME/REPOSITORY/PATH/TO/BANNER.png](https://www.git-tower.com/blog/assets/img/default-post-header@960w.png)" alt="Developer Banner" />
   <h1>Niyas P</h1>
   <p>Full-Stack Developer | MERN Specialist</p>
 </div>
